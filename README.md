@@ -65,17 +65,12 @@ It also demonstrates a **significant improvement over baseline models** without 
 ---
 
 ## 🗂️ Repository Structure
-├── data/ # Dataset (or instructions to download)
 
 ├── preprocessing/ # Image preprocessing scripts
 
-├── model/ # CNN architecture definition
 
-├── training/ # Training and evaluation scripts
+├── training-validation-testing/ # Training and evaluation scripts
 
-├── results/ # Performance metrics and plots
-
-├── requirements.txt # Required dependencies
 
 └── README.md # Project documentation
 
